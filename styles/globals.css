@@ -19,7 +19,7 @@
 }
 
 .flex.flex-1.flex-col.bg-gray-50 {
-  background:url(https://p.inari.site/guest/22-11/23/637e38f7bc383.webp) repeat-y fixed right;
+  background:url(https://p.inari.site/guest/22-11/23/637e38f7bc383.webp) no-repeat fixed center;
 }
 
 .markdown-body ul {
