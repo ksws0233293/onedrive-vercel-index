@@ -20,7 +20,7 @@
 
 .flex.flex-1.flex-col.bg-gray-50 {
   background:url(https://pan.erogame.space/_next/image/?url=%2Fbg.jpg&w=1920&q=100) no-repeat fixed center;
-  background-size:auto auto;
+  background-size:100% auto;
 }
 
 .markdown-body ul {
