@@ -11,13 +11,13 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/favoico.png',
 
   // Prefix for KV Storage
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "faust",
+  title: "Faust的旧作仓库",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -52,12 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: '主站',
+      link: 'https://www.erogame.space',
     },
     {
       name: 'Telegram',
-      link: '',
+      link: 'https://t.me/erogamesapce',
     },
   ],
 
